@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joshuarhall
 - 👀 I’m interested in cycling, photography, art museums, and people-focused city planning.
 - 🌱 I’m currently learning JavaScript.
-- 📫 Reach me on twitter @joshuarhall.
+- 📫 Reach me at joshuarhall0@gmail.com 
