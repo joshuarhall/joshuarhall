@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joshuarhall
 - 👨‍💻 I'm a fullstack engineer focused on with React and NodeJS.
-- - 👀 I’m interested in cycling, photography, art museums, and people-focused city planning.
+- 👀 I’m interested in cycling, photography, art museums, and people-focused city planning.
 - 📫 Reach me at joshuarhall0@gmail.com 
