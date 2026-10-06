@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @joshuarhall
-- 👨‍💻 I'm a fullstack engineer & technical curriculum developer specializing in JS, TS, React, NodeJS, MongoDB, PostgreSQL, and more.
-- 🛠️ Recently build Prism, a Kubernetes observability platform to help you see which nodes and clusters need attention
-- 🧑‍🎓 I have an extensive background in instructional design and helping businesses change outcomes through training.
-- 👀 I’m interested in cycling, photography, art museums, and a good cup of coffee ☕.
+- 🧑‍🎓 I'm a technical curriculum developer specializing with a focus on software companies. Focused on helping businesses change outcomes through adult learning.
+- 👨‍💻 Software development experience in JS, TS, React, NodeJS, MongoDB, PostgreSQL, and more.
+- 🛠️ Recently launched a documentation site for ActiveState, which I built with React & Docusaurus
+- 🛠️ I built Prism, a Kubernetes observability platform to help you see which nodes and clusters need attention
+- 👀 I’m interested in nature, the gym, photography, art museums, and a good cup of coffee ☕.
 - 📫 Reach me at joshuarhall0@gmail.com 
